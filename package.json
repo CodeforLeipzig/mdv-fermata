@@ -1,0 +1,23 @@
+{
+  "name": "mdv-fermata",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeforLeipzig/mdv-fermata.git"
+  },
+  "author": "max@max-brauer.de",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/CodeforLeipzig/mdv-fermata/issues"
+  },
+  "homepage": "https://github.com/CodeforLeipzig/mdv-fermata#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-swagger-decorator": "^1.6.1"
+  }
+}
